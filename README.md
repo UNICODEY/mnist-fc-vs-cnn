@@ -35,4 +35,5 @@ and run all cells. No local installation needed.
 ## Results
 
 ![results](results.png)
-![errors](errors.png)
+![errors](errors1.png)
+![errors](errors2.png)
