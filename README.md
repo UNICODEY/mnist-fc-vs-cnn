@@ -34,5 +34,5 @@ and run all cells. No local installation needed.
 
 ## Results
 
-![results](mnist_results.png)
-![errors](mnist_errors.png)
+![results](results.png)
+![errors](errors.png)
